@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="879ea4de-ce32-4d1d-ae0d-f4bffbab0684" name="Default Changelist" comment="" />
+    <list default="true" id="879ea4de-ce32-4d1d-ae0d-f4bffbab0684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.php" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +34,18 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../freeCodeGram\exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -126,6 +155,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gzxSbEeCB1U721Vnbyiwq2JEHO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -174,21 +204,41 @@
       <workItem from="1599728637457" duration="14599000" />
       <workItem from="1599816972465" duration="11630000" />
       <workItem from="1599899356051" duration="21541000" />
+      <workItem from="1600091446879" duration="3813000" />
+      <workItem from="1600172559741" duration="202000" />
+      <workItem from="1602173444984" duration="1619000" />
+      <workItem from="1603210566739" duration="528000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599836660716">
+    <state x="393" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603211071462">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="393" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.724@0.0.1366.724" timestamp="1599836660716" />
+    <state x="393" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.724@0.0.1366.724" timestamp="1603211071462" />
     <state x="417" y="121" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599496297471">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="417" y="121" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.724@0.0.1366.724" timestamp="1599496297471" />
+    <state x="467" y="121" key="FileChooserDialogImpl" timestamp="1600172762372">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="467" y="121" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1600172762372" />
     <state width="1296" height="158" key="GridCell.Tab.0.bottom" timestamp="1599131898615">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
@@ -213,9 +263,9 @@
       <screen x="0" y="0" width="1366" height="724" />
     </state>
     <state x="292" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.724@0.0.1366.724" timestamp="1599498045061" />
-    <state x="346" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1599759994906">
+    <state x="346" y="45" width="672" height="678" key="search.everywhere.popup" timestamp="1600092021100">
       <screen x="0" y="0" width="1366" height="724" />
     </state>
-    <state x="346" y="45" width="672" height="678" key="search.everywhere.popup/0.0.1366.724@0.0.1366.724" timestamp="1599759994906" />
+    <state x="346" y="45" width="672" height="678" key="search.everywhere.popup/0.0.1366.724@0.0.1366.724" timestamp="1600092021100" />
   </component>
 </project>

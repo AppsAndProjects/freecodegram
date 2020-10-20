@@ -4,27 +4,27 @@ namespace Deployer;
 require 'recipe/laravel.php';
 
 // Project name
-set('application', 'my_project');
+set('application', 'freeCodeGram');
 
 // Project repository
-set('repository', 'git@domain.com:username/repository.git');
+set('repository', 'git@https://github.com/Igor-my-projects/laravel-project.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
-set('git_tty', true); 
+set('git_tty', true);
 
-// Shared files/dirs between deploys 
+// Shared files/dirs between deploys
 add('shared_files', []);
 add('shared_dirs', []);
 
-// Writable dirs by web server 
+// Writable dirs by web server
 add('writable_dirs', []);
 
 
 // Hosts
 
-host('project.com')
-    ->set('deploy_path', '~/{{application}}');    
-    
+host('https://freeCodeGram.freecluster.eu')
+    ->set('https://freeCodeGram.freecluster.eu/htdocs', '~/{{application}}');
+
 // Tasks
 
 task('build', function () {
